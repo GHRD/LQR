@@ -1,1 +1,1 @@
-# LQR
+Repository contains projects that implement the Linear Quadratic Regulator (LQR) on various control systems, including drones, inverted pendulums, and more. LQR is a powerful control strategy that optimizes a system's feedback control gains to achieve a desired state while minimizing a cost function. Each project includes a detailed explanation of the system's dynamics, the design of the LQR controller, and simulation results demonstrating the controller's performance.
